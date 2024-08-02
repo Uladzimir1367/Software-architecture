@@ -19,9 +19,9 @@
 В task002 отражены следующие паттерны:
 
 Порождающий паттерн проектирования (Singleton)
-Описание в файле README 2.md <br>
+Описание в файле README2.md  [README2.md](./homework/task002/Singleton/README2.md)<br>
 
 Состояние — поведенческий паттерн (State)
-Описание в файле README 3.md
+Описание в файле README3.md [README3.md](./homework/task002/State/README3.md)
 
 
