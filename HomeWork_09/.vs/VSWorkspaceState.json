@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\MyForstWebApplication",
+    "\\MyForstWebApplication\\MyForstWebApplication",
+    "\\MyForstWebApplication\\MyForstWebApplication\\bin",
+    "\\MyForstWebApplication\\MyForstWebApplication\\bin\\Release",
+    "\\MyForstWebApplication\\MyForstWebApplication\\Controllers",
+    "\\MyForstWebApplication\\MyForstWebApplication\\Models",
+    "\\MyForstWebApplication\\MyForstWebApplication\\obj",
+    "\\MyForstWebApplication\\MyForstWebApplication\\obj\\Debug",
+    "\\MyForstWebApplication\\MyForstWebApplication\\obj\\Release",
+    "\\MyForstWebApplication\\MyForstWebApplication\\obj\\Release\\net7.0"
+  ],
+  "SelectedNode": "\\MyForstWebApplication\\MyForstWebApplication\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}
